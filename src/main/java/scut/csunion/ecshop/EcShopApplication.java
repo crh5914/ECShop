@@ -1,0 +1,12 @@
+package scut.csunion.ecshop;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EcShopApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EcShopApplication.class, args);
+	}
+}
